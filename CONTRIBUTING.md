@@ -34,7 +34,7 @@ b) when plural: "reference reference..." with each word linked.
 
 **WARNING:** do not open up an issue whether the bug is a security vulnerability; instead send a private e-mail informing the repository owner directly.
 
-Just follow the [**Issue Template**](https://github.com/QuaestioOrg/kotlin-converted-webview/blob/master/ISSUE_TEMPLATE.md) for the best experience.
+Just follow the [**Issue Template**](https://github.com/JorgeAmVF/android-room-markdown-notepad/issues/new?template=issue-templates.md) for the best experience.
 
 ### Pull Requests
 
