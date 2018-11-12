@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity implements NotesAdapter.OnNo
     public void onNoteClick(final int pos) {
         new AlertDialog.Builder(MainActivity.this)
                 .setTitle("Select:")
-                .setItems(new String[]{"View", "Edit", "Delete"}, new DialogInterface.OnClickListener() {
+                .setItems(new String[]{"Read", "Update", "Delete"}, new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
                         switch (i) {
