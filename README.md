@@ -3,7 +3,7 @@
 [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://developer.android.com/about/versions/android-4.0.3)
 
 ## Description
-A [Markdown](https://daringfireball.net/projects/markdown/) reader using [MarkdownView](https://github.com/falnatsheh/MarkdownView) for viewing [TextView](https://developer.android.com/reference/android/widget/TextView) content from a CRUD [Room](https://developer.android.com/topic/libraries/architecture/room) database made of [TextInputEditText](https://developer.android.com/reference/android/support/design/widget/TextInputEditText).
+A [Markdown](https://daringfireball.net/projects/markdown/) reader using [MarkdownView](https://github.com/falnatsheh/MarkdownView) for viewing notes from a CRUD [Room](https://developer.android.com/topic/libraries/architecture/room) database made of [TextInputEditText](https://developer.android.com/reference/android/support/design/widget/TextInputEditText).
 
 ## Table of Contents
 * [Installation](#installation)
