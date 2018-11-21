@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements NotesAdapter.OnNo
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        initializeVies();
+        initializeViews();
         displayList();
     }
 
@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity implements NotesAdapter.OnNo
         }
     }
 
-    private void initializeVies() {
+    private void initializeViews() {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         textViewMsg = findViewById(R.id.tv__empty);
