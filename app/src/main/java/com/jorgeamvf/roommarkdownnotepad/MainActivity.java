@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements NotesAdapter.OnNo
     private void initializeViews() {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        textViewMsg = findViewById(R.id.tv__empty);
+        textViewMsg = findViewById(R.id.textview_empty);
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(listener);
         recyclerView = findViewById(R.id.recycler_view);
