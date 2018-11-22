@@ -30,7 +30,7 @@ public class ViewNoteActivity extends AppCompatActivity {
     }
 
     private void updateMarkdownView() {
-        markdownView.loadMarkdown(note_content.getText().toString());
+        markdownView.loadMarkdown(note_content.getText().toString(), "file:///android_asset/style.css");
     }
 
 }
